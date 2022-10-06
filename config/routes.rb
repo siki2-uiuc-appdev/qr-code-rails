@@ -4,8 +4,11 @@ Rails.application.routes.draw do
   # /text
   get("/text", { :controller => "application", :action => "text_qr"})
   # /url
+  get("/url", { :controller => "application", :action => "url_qr"})
   # /wifi
+  get("/wifi", { :controller => "application", :action => "wifi_qr"})
   # /sms
+  get("/sms", { :controller => "application", :action => "sms_qr"})
   
   get("/", {:controller => "application", :action => "homepage"})
 
