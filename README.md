@@ -6,6 +6,14 @@ In this project, we'll generate QR codes for our users and display them in the b
 
 Here is a target to work towards.
 
+## Anatomy of a URL
+
+The full anatomy of a URL (**parameters** are also known as **query strings**):
+
+![The anatomy of a URL from MDN](mdn-url-all.png)
+
+[Read more at MDN.](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
+
 ## Tasks
 
 Implement the following four URLs:
@@ -53,11 +61,3 @@ Implement the following four URLs:
     ```
     SMSTO:9876543210:Hi Alice! It's me, 
     ```
-
-## Anatomy of a URL
-
-The full anatomy of a URL:
-
-![The anatomy of a URL from MDN](mdn-url-all.png)
-
-[Read more at MDN.](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
