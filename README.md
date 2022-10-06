@@ -4,7 +4,7 @@ In this project, we'll generate QR codes for our users and display them in the b
 
 ## Target
 
-Here is a target to work towards.
+[Here is a target](https://qr-code-rails.herokuapp.com/) to work towards.
 
 ## Anatomy of a URL
 
