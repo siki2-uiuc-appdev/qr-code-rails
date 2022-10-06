@@ -14,24 +14,20 @@
     <%= stylesheet_link_tag 'application', media: 'all' %>
 
     <style>
-      html {
-        height: 100%;
-      }
-
       body {
-        height: 100%;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
       }
 
-      .svg_container {
-        height: 100%;
+      .main {
         display: flex;
         justify-content: center;
-        align-items: center;
       }
     </style>
   </head>
 
   <body>
-    <%= yield %>
+    <div class="main">
+      <%= yield %>
+    </div>
   </body>
 </html>
