@@ -1,7 +1,9 @@
-# Base Rails
+# QR Code Rails
 
-## Standard Workflow
+In this project, we'll generate QR codes for our users and display them in the browser.
 
- 1. Start the web server by running `bin/server`.
- 1. Navigate to your live application.
- 1. As you work, remember to navigate to `/git` and **commit often as you work.**
+## Target
+
+Here is a target to work towards.
+
+## 
